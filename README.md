@@ -16,7 +16,7 @@ Eine einfache Web-App zum Tracken deiner täglichen Kalorienaufnahme – erstell
 
 2. **Online nutzen:**
    - Die App ist live auf GitHub Pages:  
-     🔗 [https://dein-github-username.github.io/repository-name/](https://dein-github-username.github.io/repository-name/)
+     🔗 [https://meritontc.github.io/kalorienzaehler/](https://meritontc.github.io/kalorienzaehler/)
 
 ## 🛠️ Technologien
 - HTML5
